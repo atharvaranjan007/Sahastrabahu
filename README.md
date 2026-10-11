@@ -2,356 +2,378 @@
 
 # ⚡ SAHASTRABAHU
 
-### Intelligent Protection. Integrated Thinking. Engineering for Impact.
+### The Next Layer of Protection.
 
-**A smart protective wearable concept designed to bring protection, sensing, situational awareness, and emergency assistance into one coordinated jacket.**
+**A smart protective jacket concept that brings together wearable technology, real-time awareness, emergency communication, and intelligent assistance for people working in demanding environments.**
 
 <p>
-  <img src="https://img.shields.io/badge/PROJECT-SAHASTRABAHU-f97316?style=for-the-badge" alt="Project Sahastrabahu">
+  <img src="https://img.shields.io/badge/SAHASTRABAHU-SMART_PROTECTIVE_JACKET-f97316?style=for-the-badge" alt="Sahastrabahu Smart Protective Jacket">
   <img src="https://img.shields.io/badge/DOMAIN-WEARABLE_TECHNOLOGY-2563eb?style=for-the-badge" alt="Wearable Technology">
   <img src="https://img.shields.io/badge/FOCUS-PERSONNEL_SAFETY-15803d?style=for-the-badge" alt="Personnel Safety">
-  <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-7c3aed?style=for-the-badge" alt="Development">
+  <img src="https://img.shields.io/badge/APPROACH-INTEGRATED_ENGINEERING-7c3aed?style=for-the-badge" alt="Integrated Engineering">
 </p>
 
-*Engineering a more connected layer of support for the people who work where safety matters most.*
+*One jacket. Multiple intelligent capabilities. A stronger layer of support for those on the front line.*
 
 </div>
 
 ---
 
-## Contents
+## 🌟 Project at a Glance
 
-- [01 — The Vision](#-01--the-vision)
-- [02 — The Problem](#-02--the-problem)
-- [03 — The Sahastrabahu Approach](#-03--the-sahastrabahu-approach)
-- [04 — Capability Map](#-04--capability-map)
-- [05 — How the System Fits Together](#-05--how-the-system-fits-together)
-- [06 — Proposed Garment Architecture](#-06--proposed-garment-architecture)
-- [07 — Engineering Principles](#-07--engineering-principles)
-- [08 — Example Emergency Workflow](#-08--example-emergency-workflow)
-- [09 — Intended Applications](#-09--intended-applications)
-- [10 — Development and Validation](#-10--development-and-validation)
-- [11 — Roadmap](#-11--roadmap)
-- [12 — Performance and Test Planning](#-12--performance-and-test-planning)
-- [13 — Safety, Limitations, and Responsible Use](#-13--safety-limitations-and-responsible-use)
-- [14 — Repository Structure](#-14--repository-structure)
-- [15 — Contributing](#-15--contributing)
-- [16 — Project Information](#-16--project-information)
-- [17 — Frequently Asked Questions](#-17--frequently-asked-questions)
+Sahastrabahu is an innovative smart-jacket concept developed around a simple idea: **protective clothing can do more than protect—it can help its wearer sense, respond, communicate, and stay connected.**
+
+Designed with frontline personnel and demanding field environments in mind, Sahastrabahu brings multiple safety-oriented capabilities into one integrated wearable platform. Its approach combines protective garment design with sensing, alerts, communication, visibility, thermal-comfort concepts, and wearer-focused assistance.
+
+The goal is to make essential functions work together as one thoughtfully designed system rather than as a collection of disconnected devices.
+
+> **Our vision:** Create a more intelligent, connected, and responsive protective jacket for people who take on challenging tasks in the service of others.
 
 ---
 
-## 🛰️ 01 — The Vision
+## 📑 Contents
 
-In demanding environments, a jacket can be more than a layer of clothing. It can become a platform for useful information, timely alerts, and carefully integrated safety functions.
+- [The Challenge](#-the-challenge)
+- [Our Solution](#-our-solution)
+- [Core Capabilities](#-core-capabilities)
+- [How Sahastrabahu Works](#-how-sahastrabahu-works)
+- [Designed Around the Wearer](#-designed-around-the-wearer)
+- [What Makes Sahastrabahu Different](#-what-makes-sahastrabahu-different)
+- [Potential Applications](#-potential-applications)
+- [Engineering and Development](#-engineering-and-development)
+- [Development Roadmap](#-development-roadmap)
+- [Impact and Future Scope](#-impact-and-future-scope)
+- [Project Structure](#-project-structure)
+- [Project Information](#-project-information)
+- [Join the Mission](#-join-the-mission)
 
-**Sahastrabahu** explores the idea of a smart protective jacket that brings together selected protective materials, electronic sensing, environmental awareness, visibility aids, and emergency communication in a wearable form.
+---
 
-The project is guided by one central question:
+## 🚨 The Challenge
 
-> **How might we help people in high-risk environments stay better protected, better informed, and easier to assist?**
+People working in high-pressure, high-risk, and unpredictable environments may need to manage several challenges at once:
 
-The concept draws on several engineering disciplines:
+- **Changing environmental conditions** can affect comfort, endurance, and task performance.
+- **Physical strain and hydration needs** can become important during prolonged activity.
+- **Limited situational awareness** can make it harder to notice hazards or movement nearby.
+- **Emergency communication** needs to be accessible when every second matters.
+- **Low-light environments** can make visibility and coordination more difficult.
+- **Protective clothing and electronic equipment** are often designed as separate systems, adding complexity for the wearer.
+- **Field equipment must remain practical**—comfortable to wear, straightforward to operate, and adaptable to different tasks.
 
-- Wearable and embedded electronics
-- Sensor integration and signal processing
-- Protective textiles and material selection
-- Wireless communication and location awareness
-- Human–machine interaction
-- Power management, ergonomics, and reliability engineering
+These challenges call for an approach that looks beyond a single feature. Sahastrabahu explores how protective clothing, sensing, communication, and wearer assistance can be brought together in one coordinated design.
 
-The ambition is not to add technology for its own sake. It is to explore how individual functions can work together in a practical, modular system that respects the needs of the wearer.
+## 💡 Our Solution
 
-## 🚨 02 — The Problem
+Sahastrabahu is conceived as a **smart protective jacket with integrated safety and situational-awareness capabilities**.
 
-Personnel working in demanding field conditions can face several risks at once. Conventional protective clothing may address some physical hazards, while monitoring, communications, visibility aids, and environmental sensors are often separate devices.
+The design combines several complementary functions:
 
-| Challenge | Why it matters |
-|---|---|
-| Heat, cold, and thermal discomfort | Environmental stress can affect comfort, endurance, and task performance. |
-| Dehydration and physical strain | Prolonged activity may increase the need for hydration awareness and timely assistance. |
-| Limited access to physiological information | Relevant indicators can be difficult to observe continuously during field work. |
-| Delayed emergency communication | Getting an alert and useful location information to the right people can be critical. |
-| Environmental hazards | Some gases, vapours, or other conditions require appropriate sensors and careful interpretation. |
-| Rear-side blind spots | A wearer may not notice a nearby obstacle or approaching object from behind. |
-| Poor visibility | Darkness and low-visibility conditions can make movement and rescue more difficult. |
-| Disconnected equipment | Multiple independent devices can add weight, complexity, charging needs, and maintenance burden. |
-| Garment durability | Abrasion, tearing, moisture, and repeated use can affect a garment's service life. |
+1. **Protective garment design** — explore durable, tear-resistant, UV-resistant, antimicrobial, and other application-relevant material layers.
+2. **Wearer monitoring** — support the integration of sensors for selected physiological indicators.
+3. **Environmental awareness** — incorporate sensing modules for defined environmental conditions.
+4. **Emergency communication** — provide an accessible SOS concept with location-sharing and wireless communication capabilities.
+5. **Proximity awareness** — use rear-facing sensing to help notify the wearer about selected nearby obstacles.
+6. **Thermal comfort and hydration support** — explore integrated features intended to support the wearer during demanding activity.
+7. **Visibility and user feedback** — incorporate lighting, indicators, and a display concept to communicate useful information.
+8. **Coordinated control** — bring modules together through an integrated electronics and control architecture.
 
-### The integration gap
+The strength of the concept lies in the way these capabilities are designed to complement one another within a wearable system.
 
-The challenge is not simply to combine a list of features. It is to determine which functions are genuinely useful, how they should interact, and how they can be integrated without creating new risks.
+---
 
-Sahastrabahu explores a unified wearable platform where modules can be designed, evaluated, maintained, and improved independently.
+## 🧩 Core Capabilities
 
-## 💡 03 — The Sahastrabahu Approach
+### 🛡️ 1. Multi-Layer Protective Garment
 
-Sahastrabahu is envisioned as a **modular smart protective jacket** organized around six complementary goals:
+Sahastrabahu explores a purpose-built garment structure using materials selected for durability, comfort, and the needs of the intended environment.
 
-1. **Protect** — Explore garment construction and protective material options suited to the intended use.
-2. **Monitor** — Capture selected physiological indicators through compatible sensors, where appropriate.
-3. **Detect** — Identify defined environmental conditions or nearby obstacles using suitable sensing modules.
-4. **Alert** — Provide clear local alerts and, where configured, communicate emergency information.
-5. **Assist** — Explore thermal-comfort features, low-light visibility aids, and wearer-oriented support functions.
-6. **Integrate** — Coordinate the modules through a maintainable electronic and software architecture.
+- Layered garment construction
+- Tear-resistant material options
+- UV-resistant and antimicrobial material options
+- Integration of wearable electronics into the garment
+- Design considerations for fit, mobility, and everyday operation
 
-### Design philosophy
+### ❤️ 2. Wearer Monitoring
 
-- **Wearer-first:** comfort, mobility, fit, and ease of use matter as much as technical capability.
-- **Modular:** functions should be replaceable and testable without redesigning the entire garment.
-- **Evidence-led:** features should be described as proposed, prototyped, tested, or validated according to actual evidence.
-- **Fail-aware:** the system should communicate uncertainty or failure instead of implying that every sensor or communication link is always available.
-- **Responsible by design:** privacy, electrical safety, material safety, and limitations should be considered from the beginning.
+The jacket's concept supports the integration of wearable sensors to collect selected physiological information and help provide additional awareness of the wearer's condition.
 
-## 🧩 04 — Capability Map
+- Sensor-based data collection
+- Potential integration with an on-jacket display
+- Modular sensor placement
+- A foundation for future data analysis and personalized alerts
 
-The following table describes the **intended capability areas** of the concept. It is not a claim that every subsystem is currently implemented, integrated, or certified.
+### 📍 3. SOS and Location-Aware Communication
 
-| Capability area | Concept direction | Engineering considerations |
-|---|---|---|
-| Physiological monitoring | Use compatible sensors to observe selected wearer indicators. | Sensor placement, accuracy, motion artefacts, calibration, and privacy. |
-| Emergency alert and location | Provide an SOS mechanism and support location sharing through compatible communication hardware. | Network availability, location accuracy, battery reserve, and delivery confirmation. |
-| Rear-side proximity awareness | Use a rear-facing sensing module to warn of selected nearby obstacles or movement. | Detection range, blind spots, false alarms, and environmental interference. |
-| Environmental sensing | Explore sensors for specific gases or environmental conditions. | Sensor selectivity, calibration, cross-sensitivity, response time, and safe alarm thresholds. |
-| Thermal comfort | Explore temperature sensing and controlled thermal-assistance concepts. | Heat transfer, insulation, condensation, burn risk, power draw, and fail-safe behaviour. |
-| Low-light visibility | Integrate visible indicators or lighting to improve wearer visibility. | Glare, visibility from different angles, battery use, and operational requirements. |
-| Protective garment layers | Investigate durable, tear-resistant, antimicrobial, UV-resistant, or other relevant materials. | Material compatibility, washability, breathability, durability, and independent testing. |
-| Hydration support | Explore a wearable hydration arrangement and related user-support concepts. | Hygiene, leak prevention, cleanability, weight distribution, and safe fluid handling. |
-| User feedback | Communicate system state through simple indicators or a display. | Readability, glove use, cognitive load, accessibility, and operation under stress. |
-| Power management | Coordinate power distribution and battery status across modules. | Runtime, peak current, charging, thermal management, protection, and serviceability. |
+A dedicated emergency-alert concept is designed to make requesting assistance straightforward and accessible.
 
-### Capability status convention
+- Easy-to-access SOS interface
+- GPS-based location capability
+- GSM or compatible wireless communication
+- Alert transmission to a configured recipient or support system
+- Status feedback through the user interface, where implemented
 
-Use these labels consistently in project documentation:
+### 👁️ 4. Rear-Side Proximity Awareness
 
-- **Concept:** proposed design or intended function.
-- **In development:** currently being designed or assembled.
-- **Prototype:** a physical or software implementation exists.
-- **Tested:** a defined test has been completed and documented.
-- **Validated:** evidence supports performance against stated requirements under defined conditions.
+A rear-facing ultrasonic sensing concept can help the wearer become more aware of selected nearby obstacles or movement.
 
-A feature should not be described as tested or validated without supporting evidence.
+- Rear-side sensing
+- Distance-based alert logic
+- Local feedback to help draw attention to nearby objects
+- Potential for configurable alert thresholds
 
-## 🏗️ 05 — How the System Fits Together
+### 🌡️ 5. Thermal Comfort Assistance
 
-At a high level, Sahastrabahu can be understood as a set of cooperating layers:
+Sahastrabahu explores ways to make thermal comfort part of the wearable system.
+
+- Temperature sensing and display concepts
+- Potential integration of controlled thermal-assistance modules
+- Wearer-focused thermal management
+- Design opportunities for different operating environments
+
+### 💧 6. Hydration Support
+
+The concept explores integrated hydration support for people undertaking prolonged or physically demanding activities.
+
+- Wearable hydration storage concept
+- Consideration of access and convenience while wearing the jacket
+- Potential condensation-based water-collection exploration
+- Attention to weight distribution, hygiene, and usability
+
+### 🌙 7. Low-Light Visibility
+
+Integrated lighting concepts can help improve visibility and make the wearer easier to identify in low-light settings.
+
+- LED-based visibility elements
+- Placement designed around the garment
+- Potential status-indicator integration
+- Power-conscious operation
+
+### 🧪 8. Environmental Sensing
+
+Compatible sensing modules can be selected for specific environmental indicators relevant to a defined use case.
+
+- Metal-detection concept
+- Alcohol or gas sensing concept
+- Modular sensor integration
+- Local indication of sensor events
+
+### 💆 9. Wearer Assistance
+
+The concept also explores wearer-oriented support functions, including a pain-relief module concept, with emphasis on practical placement and ease of access.
+
+### 🔋 10. Integrated Electronics and Power
+
+A coordinated electronic architecture is intended to connect the jacket's sensing, user-interface, alerting, and communication functions.
+
+- Central control and module coordination
+- Organized wiring and component placement
+- Power distribution across subsystems
+- Battery-status and power-management considerations
+- Modular maintenance and future upgrades
+
+---
+
+## 🛰️ How Sahastrabahu Works
+
+Sahastrabahu is envisioned as a coordinated wearable system in which different modules contribute to a shared purpose.
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                      SAHASTRABAHU                       │
-│               SMART PROTECTIVE WEARABLE                 │
-└───────────────────────────┬─────────────────────────────┘
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
-┌──────────────┐    ┌──────────────┐    ┌────────────────┐
-│ GARMENT &    │    │ SENSING      │    │ USER FEEDBACK  │
-│ MATERIALS    │    │ MODULES      │    │ & ALERTS       │
-├──────────────┤    ├──────────────┤    ├────────────────┤
-│ Layer design │    │ Wearer data  │    │ LEDs / display │
-│ Durability   │    │ Environment  │    │ Audible/haptic │
-│ Fit & comfort│    │ Proximity    │    │ SOS interface  │
-└──────────────┘    └──────┬───────┘    └───────┬────────┘
-                           │                    │
-                           ▼                    ▼
-                    ┌────────────────────────────────┐
-                    │       CONTROL & LOGIC          │
-                    │ Filtering · Rules · Diagnostics│
-                    └────────────────┬───────────────┘
-                                     │
+                         SAHASTRABAHU
+                  SMART PROTECTIVE JACKET
+                              |
+          ┌───────────────────┼───────────────────┐
+          |                   |                   |
+          ▼                   ▼                   ▼
+   ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+   │ PROTECTIVE  │     │   SENSING   │     │  WEARER     │
+   │ GARMENT     │     │   MODULES   │     │  INTERFACE  │
+   ├─────────────┤     ├─────────────┤     ├─────────────┤
+   │ Layer design│     │ Wearer data │     │ Display     │
+   │ Durability  │     │ Environment │     │ Indicators  │
+   │ Comfort     │     │ Proximity   │     │ SOS control │
+   └─────────────┘     └──────┬──────┘     └──────┬──────┘
+                              |                   |
+                              ▼                   ▼
+                    ┌─────────────────────────────────┐
+                    │       CONTROL & PROCESSING      │
+                    │     Sensor inputs and logic     │
+                    └────────────────┬────────────────┘
+                                     |
                                      ▼
-                    ┌────────────────────────────────┐
-                    │ COMMUNICATION & POWER         │
-                    │ Location · Alerts · Battery   │
-                    └────────────────────────────────┘
+                    ┌─────────────────────────────────┐
+                    │       ALERTS & COMMUNICATION    │
+                    │     Local feedback · Location   │
+                    │       Wireless connectivity     │
+                    └─────────────────────────────────┘
 ```
 
-This diagram is a conceptual architecture. Actual components, interfaces, wiring, protocols, and software dependencies should be documented as they are selected and implemented.
+### Example: Emergency alert flow
 
-### Illustrative event flow
+1. The wearer activates the SOS interface.
+2. The control system receives the input.
+3. The jacket provides local confirmation.
+4. The communication module prepares the alert and available location information.
+5. The system attempts to send the alert through the configured communication method.
+6. The interface can communicate the available status of the alert process.
 
-1. A sensor collects a reading or the wearer activates an SOS control.
-2. The controller checks the input and applies the relevant logic.
-3. The system provides an appropriate local indication.
-4. If configured and available, the communication module attempts to transmit an alert and relevant location information.
-5. The system records or displays the event status where this functionality has been implemented.
-6. The wearer or support team follows the appropriate response procedure.
+This workflow illustrates the intended system logic. Specific components and implementation details can be documented as the project develops.
 
-A successful local alert does not guarantee that a remote message has been delivered. Network and device status should be communicated clearly.
+---
 
-## 🧥 06 — Proposed Garment Architecture
+## 🧍 Designed Around the Wearer
 
-A layered design can help separate physical protection, comfort, and electronic functionality. The final layer order and materials must be determined by the intended use and supported by testing.
+Sahastrabahu is not just about integrating technology. It is about making that technology useful in the context of a garment.
 
-| Layer / subsystem | Purpose to investigate |
+### Human-centred design priorities
+
+- **Accessibility:** important controls should be easy to locate and operate.
+- **Comfort:** component placement should consider movement, weight, and prolonged wear.
+- **Clarity:** indicators and alerts should communicate useful information quickly.
+- **Modularity:** electronic functions should be organized so that individual modules can be maintained and upgraded.
+- **Practicality:** the design should consider charging, cleaning, inspection, and day-to-day handling.
+- **Adaptability:** the overall concept can be tailored to the requirements of different professional environments.
+
+The guiding principle is simple: **technology should support the wearer, not distract from the task.**
+
+## ✨ What Makes Sahastrabahu Different
+
+### An integrated approach
+
+Sahastrabahu brings garment design, sensing, alerts, communication, visibility, and wearer-support concepts into a single project.
+
+### Multiple capabilities, one wearable platform
+
+Instead of viewing each function as a separate accessory, the project explores how these functions can be coordinated within a jacket.
+
+### Built around real-world needs
+
+The concept is motivated by practical challenges faced by people operating in demanding environments, including communication, visibility, comfort, and situational awareness.
+
+### A multidisciplinary engineering challenge
+
+The project connects materials, embedded systems, sensors, power management, communication, interface design, and garment engineering.
+
+### Designed for future development
+
+A modular approach creates opportunities to improve individual subsystems, incorporate new technologies, and adapt the concept to different use cases.
+
+### Innovation with a human purpose
+
+At its core, Sahastrabahu is about using engineering to support people whose work can involve difficult conditions and significant responsibility.
+
+---
+
+## 🎯 Potential Applications
+
+<details>
+<summary><strong>Defence and field personnel</strong></summary>
+
+A potential platform for integrating selected monitoring, visibility, proximity-awareness, and emergency-communication functions into field wear.
+
+</details>
+
+<details>
+<summary><strong>Police and law enforcement</strong></summary>
+
+A concept for bringing accessible alerts, location-aware communication, and situational-awareness tools closer to the wearer.
+
+</details>
+
+<details>
+<summary><strong>Disaster response and rescue teams</strong></summary>
+
+A potential wearable system for personnel working in changing conditions where visibility, communication, and awareness can be valuable.
+
+</details>
+
+<details>
+<summary><strong>Emergency and industrial operations</strong></summary>
+
+A flexible concept that could be adapted to selected industrial, remote-field, or emergency-service requirements through use-case-specific design.
+
+</details>
+
+<details>
+<summary><strong>Research and advanced wearable technology</strong></summary>
+
+A platform for exploring the integration of protective textiles, embedded electronics, sensors, and human-centred interfaces.
+
+</details>
+
+---
+
+## 🧰 Engineering and Development
+
+Sahastrabahu brings together several areas of engineering and design.
+
+| Engineering area | Role in the project |
 |---|---|
-| Outer shell | Abrasion resistance, weather suitability, and protection against the intended environmental conditions. |
-| Protective layer | Material or construction options appropriate to the specific hazard being addressed. |
-| Comfort layer | Breathability, moisture management, skin comfort, and movement. |
-| Electronics channels | Secure routing and strain relief for wires, connectors, and sensor modules. |
-| Sensor locations | Consistent positioning that supports usable readings without restricting movement. |
-| Power and control pocket | Secure, accessible placement of electronics and battery modules, with thermal and electrical safeguards. |
-| User interface | Reachable and understandable controls, status indicators, or display. |
-| Maintenance access | Practical removal of electronic modules for inspection, charging, cleaning, or repair. |
+| Protective materials | Garment layers, durability, comfort, and material selection |
+| Embedded systems | Coordinating inputs, outputs, and connected modules |
+| Sensor integration | Collecting data from selected wearer, environmental, and proximity sensors |
+| Wireless communication | Supporting location-aware alerts and remote communication |
+| User-interface design | Presenting status information and enabling accessible controls |
+| Power management | Organizing energy use across electronic modules |
+| Mechanical and garment design | Component placement, cable routing, fit, and maintenance access |
+| Testing and iteration | Evaluating individual functions and improving the integrated design |
 
-**Important:** a layered appearance does not establish protection against bullets, blades, heat, chemicals, or any other specific hazard. Any such claim requires testing and certification appropriate to the exact finished configuration.
+### Development approach
 
-## ⚙️ 07 — Engineering Principles
+The project can be developed through a structured cycle:
 
-### 7.1 Wearability before feature count
+1. Define the user needs and intended operating environment.
+2. Break the concept into independent functional modules.
+3. Select appropriate components and garment materials.
+4. Develop and evaluate subsystems.
+5. Integrate the modules into the garment.
+6. Evaluate usability, system behaviour, and power requirements.
+7. Refine the design through testing and feedback.
+8. Document the architecture, improvements, and next steps.
 
-Every additional sensor, wire, battery, and enclosure can affect weight, comfort, mobility, and reliability. Features should be prioritized by user need and measurable benefit.
+---
 
-### 7.2 Modular hardware
+## 🗺️ Development Roadmap
 
-Where practical, subsystems should have defined power, data, mounting, and maintenance interfaces. This makes it easier to isolate faults and upgrade individual modules.
+The roadmap below outlines a possible progression from system planning to a more integrated wearable platform.
 
-### 7.3 Clear alert priorities
+- [ ] **System definition** — establish priority use cases, requirements, and module boundaries.
+- [ ] **Garment and materials design** — develop the layer concept and component-placement plan.
+- [ ] **Sensor subsystem development** — select and integrate relevant sensing modules.
+- [ ] **SOS and communication** — develop the alert interface and communication workflow.
+- [ ] **User interface** — organize status indicators, display elements, and wearer controls.
+- [ ] **Power architecture** — develop a coordinated approach to batteries, distribution, and runtime.
+- [ ] **Integrated prototype** — bring selected subsystems together in the garment.
+- [ ] **Wearability refinement** — improve placement, mobility, comfort, and maintenance.
+- [ ] **System evaluation** — measure subsystem performance and improve integration.
+- [ ] **Future expansion** — explore additional modules and application-specific configurations.
 
-An emergency alert should be distinguishable from routine status information. Alert logic should account for false positives, missed detections, acknowledgement, and the possibility that a sensor is unavailable.
+---
 
-### 7.4 Power-aware operation
+## 🌍 Impact and Future Scope
 
-Power budgets should account for idle consumption, peak current, communication bursts, lighting, thermal-assistance loads, and battery ageing. Critical functions should not silently fail when power is low.
+Sahastrabahu aims to explore how thoughtful integration can make wearable technology more useful for people working in demanding environments.
 
-### 7.5 Human-centred interaction
+### Potential areas of impact
 
-Controls should be discoverable and usable under stress, in low light, and where gloves or limited dexterity may be involved. The interface should avoid overwhelming the wearer with unnecessary notifications.
+- **Improved access to information:** bring selected sensor readings and system status closer to the wearer.
+- **More accessible emergency signalling:** integrate an SOS interaction into the garment.
+- **Greater situational awareness:** explore proximity and environmental sensing.
+- **Wearable visibility support:** integrate lighting concepts into the clothing design.
+- **A more coordinated equipment experience:** explore how multiple functions can be organized within one wearable platform.
+- **A foundation for further innovation:** create a basis for future work in smart textiles, embedded systems, and connected protective equipment.
 
-### 7.6 Maintainability and traceability
+### Future possibilities
 
-Components, firmware versions, tests, design changes, and known limitations should be documented. A repeatable build and test process is more valuable than an impressive but unverified feature list.
+As the system evolves, Sahastrabahu could explore improved sensor fusion, a companion mobile interface, configurable alert profiles, more efficient power management, data visualisation, and application-specific garment configurations.
 
-## 🚨 08 — Example Emergency Workflow
+The long-term direction is to keep improving the relationship between the wearer, the garment, and the information the system can provide.
 
-The following is an illustrative workflow, not a guarantee of real-world response performance.
+---
 
-```text
-[Wearer activates SOS]
-          |
-          v
-[Controller receives input]
-          |
-          v
-[Local confirmation is provided]
-          |
-          v
-[Check location and communication status]
-          |
-          v
-[Attempt remote alert if configured]
-          |
-          v
-[Show delivery / failure status when available]
-          |
-          v
-[Follow the established emergency procedure]
-```
+## 📂 Project Structure
 
-### Essential behaviour to design and test
-
-- Prevent accidental activation where practical, without making SOS difficult to use.
-- Provide clear feedback that the SOS input was registered.
-- Distinguish “alert attempted” from “alert delivered.”
-- Handle missing GPS, poor network coverage, low battery, and sensor faults.
-- Avoid making the wearer rely on the jacket as the only means of emergency communication.
-- Define how the system can be checked before a shift or field operation.
-
-## 🎯 09 — Intended Applications
-
-Sahastrabahu is being explored for environments where personnel may benefit from integrated protective equipment and situational-awareness support.
-
-- **Defence and field personnel:** potential support for communication, visibility, and selected monitoring functions.
-- **Police and law enforcement:** potential support for emergency signalling and situational awareness.
-- **Disaster response and rescue:** potential assistance in demanding, low-visibility, or time-critical environments.
-- **Fire and emergency services:** possible use of selected sensing and communication functions, subject to hazard-specific design and certification.
-- **Industrial and remote field work:** potential support for monitoring and alerts where the environment and use case are clearly defined.
-
-These are intended application areas, not endorsements or evidence of operational deployment. Requirements differ substantially between environments; each application would need its own risk assessment and validation plan.
-
-## 🔬 10 — Development and Validation
-
-A responsible development process should move from requirements to isolated subsystem tests, then to integrated testing and field-relevant evaluation.
-
-### Suggested workflow
-
-1. **Define the use case** — Identify the wearer, operating environment, hazards, and realistic constraints.
-2. **Write requirements** — Give each proposed feature a measurable purpose and acceptance criterion.
-3. **Select components** — Record why each sensor, controller, battery, material, and communication module is suitable.
-4. **Build subsystems** — Develop and test sensing, alerting, power, and interface modules independently.
-5. **Integrate carefully** — Verify electrical, mechanical, software, and garment interfaces.
-6. **Test repeatably** — Record setup, procedure, conditions, results, and failures.
-7. **Evaluate usability** — Assess fit, weight, mobility, readability, control placement, and user understanding.
-8. **Review risks** — Reassess failure modes, privacy, misuse, maintenance, and foreseeable hazards.
-9. **Iterate** — Prioritize changes using test evidence rather than assumptions.
-10. **Document the release** — State what works, what was tested, what remains uncertain, and what comes next.
-
-### Evidence to keep with each test
-
-- Test ID and date
-- Hardware and firmware revision
-- Test environment and equipment
-- Procedure and expected result
-- Observed result and measurements
-- Pass/fail criteria
-- Faults, anomalies, and limitations
-- Tester or reviewer, where appropriate
-
-## 🗺️ 11 — Roadmap
-
-This roadmap is a planning framework. Mark a task complete only when the repository contains evidence that supports completion.
-
-- [ ] **Stage 1 — Requirements:** define users, hazards, operating conditions, and priority features.
-- [ ] **Stage 2 — System design:** document architecture, module interfaces, and initial component choices.
-- [ ] **Stage 3 — Subsystem prototypes:** build and evaluate individual sensing, alert, and interface modules.
-- [ ] **Stage 4 — Garment integration:** evaluate mounting, cable routing, weight, comfort, and maintenance access.
-- [ ] **Stage 5 — Integrated testing:** test subsystem interactions, power behaviour, and fault handling.
-- [ ] **Stage 6 — Wearability evaluation:** assess fit, movement, heat, usability, and practical maintenance.
-- [ ] **Stage 7 — Reliability and safety review:** test against documented requirements and address identified risks.
-- [ ] **Stage 8 — Application-specific validation:** pursue relevant independent testing and certification before making protection claims or operational recommendations.
-
-## 📊 12 — Performance and Test Planning
-
-The project should define measurable targets before testing. Suitable metrics may include:
-
-| Area | Example metric | Why it matters |
-|---|---|---|
-| Wearability | Total garment mass and module mass distribution | Helps evaluate fatigue, comfort, and mobility. |
-| Battery | Runtime under a documented workload | Indicates whether the system can support its intended use period. |
-| SOS | Time from activation to local confirmation | Measures immediate interface response. |
-| Communication | Alert delivery success under specified network conditions | Distinguishes communication attempts from successful delivery. |
-| Location | Position error under documented conditions | Helps set realistic expectations for location information. |
-| Proximity | Detection range, false-alarm rate, and missed-detection rate | Describes useful performance and limitations. |
-| Environmental sensing | Response time, calibration drift, and cross-sensitivity | Helps assess whether readings are reliable for the defined use. |
-| Thermal assistance | Temperature change, power draw, and surface-temperature limits | Supports comfort and safety evaluation. |
-| Durability | Performance after defined wear, movement, moisture, or cleaning tests | Helps assess suitability for repeated use. |
-| Usability | Task completion, activation errors, and user feedback | Indicates whether controls and alerts are understandable. |
-
-Do not publish invented values or unqualified performance percentages. Report the test method, sample size, conditions, uncertainty, and limitations alongside results.
-
-## ⚠️ 13 — Safety, Limitations, and Responsible Use
-
-Sahastrabahu is a developing engineering concept. It should not be treated as a substitute for certified protective equipment, established emergency procedures, trained personnel, or professional medical assessment.
-
-### Key safeguards
-
-- **Protection claims:** do not describe the garment as bulletproof, stab-resistant, fireproof, chemical-protective, or certified unless the exact final configuration has passed the relevant independent tests.
-- **Health-related information:** wearable readings can be inaccurate and should not be presented as a diagnosis or medical-grade measurement without appropriate validation and regulatory review.
-- **Environmental sensors:** detection depends on the selected sensor, target substance, calibration, placement, and conditions. A sensor does not guarantee a safe environment.
-- **Electrical and battery safety:** account for short circuits, overheating, water ingress, impact, charging, and safe battery enclosure.
-- **Thermal systems:** prevent excessive temperatures and evaluate burns, condensation, insulation, and failure conditions.
-- **Communication:** GPS and wireless links may be unavailable, delayed, or inaccurate. A failed transmission must not be represented as a delivered alert.
-- **Privacy:** collect only necessary data, restrict access, define retention periods, and obtain appropriate consent for testing or deployment.
-- **Operational use:** assess the complete garment and all installed modules for interference with movement, existing equipment, and required protective gear.
-
-### Principle
-
-**A safety system must communicate its limitations honestly.** Uncertainty, faults, and unavailable functions should be visible to the wearer wherever practical.
-
-## 📂 14 — Repository Structure
-
-As the project grows, a clear structure can help contributors find design information and distinguish documentation from implemented systems.
+The following structure is a suggested organization for the GitHub repository. Keep and expand folders as corresponding project files are added.
 
 ```text
 Sahastrabahu/
@@ -359,110 +381,55 @@ Sahastrabahu/
 ├── docs/
 │   ├── project-overview.md
 │   ├── system-architecture.md
-│   ├── requirements.md
-│   ├── safety-and-risk-register.md
-│   ├── testing-and-validation.md
-│   └── design-decisions/
+│   ├── design-approach.md
+│   └── development-roadmap.md
 ├── hardware/
 │   ├── schematics/
-│   ├── pcb/
 │   ├── wiring/
 │   └── bill-of-materials/
 ├── firmware/
-│   ├── sensor-modules/
-│   ├── alert-system/
-│   ├── communication/
-│   └── power-management/
+│   ├── sensors/
+│   ├── alerts/
+│   └── communication/
 ├── software/
 │   ├── interface/
 │   └── tools/
 ├── mechanical/
 │   ├── garment-layout/
-│   ├── enclosures/
-│   └── mounting/
+│   └── enclosures/
 ├── tests/
-│   ├── procedures/
-│   ├── results/
-│   └── test-data/
-├── media/
-│   ├── diagrams/
-│   └── approved-photos/
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-└── LICENSE
+│   └── reports/
+└── media/
+    ├── diagrams/
+    └── project-photos/
 ```
-
-This is a suggested structure. Keep only directories that contain real project files; avoid empty folders or implying that hardware, firmware, test data, or documentation exists when it has not yet been added.
-
-## 🤝 15 — Contributing
-
-Sahastrabahu spans multiple engineering disciplines. Useful contributions can include requirements writing, circuit and mechanical design, firmware, sensor evaluation, usability research, documentation, and test planning.
-
-### How to contribute
-
-1. Check existing issues and documentation before starting.
-2. Open an issue describing the problem, proposal, or question.
-3. Discuss major changes before investing substantial effort.
-4. Keep changes focused and explain their purpose.
-5. Include reproducible test steps and results when applicable.
-6. Document assumptions, limitations, safety implications, and compatibility.
-7. Submit a pull request with a clear summary.
-
-Please do not publish sensitive personal data, confidential information, or material that is not approved for public release. A contribution should not introduce unsupported safety claims.
-
-## 📌 16 — Project Information
-
-- **Project name:** Sahastrabahu
-- **Category:** Smart Wearables · Embedded Systems · Safety Engineering
-- **Primary focus:** Integrated protective and situational-awareness technology
-- **Innovation status:** Sahastrabahu is a patented innovation.
-- **Repository:** Replace this line with the public GitHub repository URL.
-- **Contact:** Add an approved public project contact or issue link.
-
-### Recommended repository setup
-
-Before publishing, consider adding:
-
-- A clear project description and topic tags in GitHub.
-- A `CONTRIBUTING.md` that reflects the actual contribution process.
-- A `LICENSE` only after choosing a license appropriate to the project's ownership and distribution requirements.
-- A `CHANGELOG.md` once versioned changes begin.
-- A `docs/` folder containing current architecture and requirements.
-- Genuine project photos, diagrams, or a short demo, with captions explaining what is actually shown.
-
-## ❓ 17 — Frequently Asked Questions
-
-**What is Sahastrabahu?**  
-A smart protective wearable concept exploring the integration of garment design, sensing, situational awareness, local alerts, and emergency communication.
-
-**Is it a finished commercial product?**  
-The development stage should be stated according to the current evidence in the repository. The presence of a concept or prototype does not by itself establish production readiness.
-
-**Does it provide ballistic protection?**  
-No ballistic-protection claim should be inferred from this README. Such a claim requires appropriate testing and certification of the exact finished garment configuration.
-
-**Can it detect every gas or environmental hazard?**  
-No. Detection is limited to the targets and conditions supported by the selected sensors and their validation. Sensor limitations must be documented.
-
-**Will an SOS message always reach responders?**  
-Not necessarily. Delivery depends on hardware, power, location availability, network coverage, configuration, and the receiving service. The system should show status where possible and never imply guaranteed delivery.
-
-**Can people contribute?**  
-Yes, where contributions are consistent with the repository's policies and public-disclosure boundaries. Use issues and pull requests to discuss proposed changes.
-
-**Where can I find technical details?**  
-Add architecture diagrams, component lists, schematics, firmware notes, and test reports to the repository as they become available. Documentation should reflect the actual implementation.
 
 ---
 
+## 📌 Project Information
+
+- **Project name:** Sahastrabahu
+- **Project category:** Smart Wearables · Embedded Systems · Safety Engineering
+- **Core idea:** An integrated smart protective jacket for demanding environments
+- **Key themes:** Protection · Monitoring · Situational Awareness · Emergency Communication · Wearer Assistance
+- **Innovation status:** Sahastrabahu is a patented innovation.
+- **GitHub repository:** Add the repository URL here.
+- **Project contact:** Add an approved contact or collaboration link here.
+
+---
+
+## 🚀 Join the Mission
+
+Sahastrabahu brings together a bold vision and a multidisciplinary engineering challenge: exploring how protective clothing can become a more intelligent, connected, and responsive system.
+
+The project sits at the intersection of wearable technology, embedded systems, materials, sensing, communication, and human-centred design. Each of these areas creates opportunities to learn, build, test, and improve.
+
+Whether your interest is electronics, software, materials, garment design, or product innovation, Sahastrabahu represents an opportunity to contribute to a meaningful engineering challenge.
+
 <div align="center">
 
-## 🌍 The Long-Term Vision
+### **Protection, powered by innovation.**
 
-Sahastrabahu explores a future in which protective wearables are not just garments with added electronics, but thoughtfully engineered systems built around the people who wear them.
-
-**Useful features. Clear feedback. Testable performance. Responsible engineering.**
-
-*Designed around the wearer. Developed through evidence. Built with safety in mind.*
+*Designed with purpose. Connected through technology. Focused on the people who matter most.*
 
 </div>
