@@ -413,8 +413,7 @@ Sahastrabahu/
 - **Core idea:** An integrated smart protective jacket for demanding environments
 - **Key themes:** Protection · Monitoring · Situational Awareness · Emergency Communication · Wearer Assistance
 - **Innovation status:** Sahastrabahu is a patented innovation.
-- **GitHub repository:** Add the repository URL here.
-- **Project contact:** Add an approved contact or collaboration link here.
+
 
 ---
 
